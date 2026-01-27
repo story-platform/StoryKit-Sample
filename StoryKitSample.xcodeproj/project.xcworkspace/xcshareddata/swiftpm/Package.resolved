@@ -1,0 +1,15 @@
+{
+  "originHash" : "ead5d0a07f0e62243e89a648246914dce310d490bafabebeb4c0334a3139b0bd",
+  "pins" : [
+    {
+      "identity" : "storykit-visionos",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/story-platform/StoryKit-visionOS",
+      "state" : {
+        "revision" : "1bc8f0117e349769ab08f857c42c98067d88195f",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}
