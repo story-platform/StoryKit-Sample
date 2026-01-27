@@ -1,6 +1,6 @@
 # StoryKit Sample App
 
-A reference sample application demonstrating how to integrate and use the **StoryKit SDK** in a SwiftUI-based immersive app.
+A reference sample application demonstrating how to integrate and use the [**StoryKit SDK**](https://github.com/story-platform/StoryKit-visionOS) in a SwiftUI-based immersive app.
 
 This project is intended for developers who want to quickly understand StoryKit initialization, authorization, playback, event interaction, and immersive space integration patterns.
 
@@ -37,7 +37,7 @@ This sample app demonstrates a minimal but complete StoryKit integration, includ
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-org/storykit-sample-app.git
+git clone https://github.com/story-platform/StoryKit-visionOS.git
 cd storykit-sample-app
 ```
 
