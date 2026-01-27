@@ -37,7 +37,7 @@ This sample app demonstrates a minimal but complete StoryKit integration, includ
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/story-platform/StoryKit-visionOS.git
+git clone https://github.com/story-platform/StoryKit-Sample.git
 ```
 
 ### 2. Open the project
